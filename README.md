@@ -1,0 +1,2 @@
+# MekoBot
+Bot for Syniez :)
